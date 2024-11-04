@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikoveegu.github.io/NGB/sitemap_index.txt
+Sitemap: https://ikoveegu.github.io/QxA/sitemap_index.txt
+Sitemap: https://ikoveegu.github.io/hpN/sitemap_index.txt
+Sitemap: https://ikoveegu.github.io/kvU/sitemap_index.txt
